@@ -24,4 +24,4 @@
 
 ---
 
-On a mission to build scalable software, integrate AI into real-world apps, and teach… unless it’s exam season, then I’m just surviving. 🚀  
+On a mission to build scalable software, integrate AI into real-world apps, and teach… unless it’s exam season, then I’m just surviving. 🙃  
