@@ -1,27 +1,77 @@
-# Hi there, I'm Ayka Imran 👋  
+# 🌸 Ayka Imran - Software Engineer  
 
-😎 You found my profile! Don’t worry, I won’t tell anyone you were stalking...  
-🎓 Software Engineering Student @ FAST-NUCES, Lahore (5th Semester | GPA: 3.67/4)  
-👩‍🏫 Teacher (Web Development, C++)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer+%7C+AI+Developer;Full+Stack+Developer;Educator+%7C+Tech+Mentor;Always+Building+Cool+Things...&center=true&width=500&height=45" />
+</p>
 
-📫 Reach me at: [aykaimran28@gmail.com](mailto:aykaimran28@gmail.com)  
-🌐 [GitHub](https://github.com/aykaimran) | [LinkedIn](https://www.linkedin.com/in/ayka-imran)  
-
----
-
-## 💻 Skills
-- **Languages & Frameworks:** C, C++, Java, JavaScript, React, Node.js, Spring Boot, SQL, HTML/CSS, Python  
-- **Tools & Platforms:** Git, VS Code, Visual Studio, MATLAB, JIRA  
-- **Focus Areas:** Full-stack development, AI-powered web apps 
+<p align="center">  
+💻 Software Engineering Student @ FAST-NUCES (5th Semester, GPA 3.67)  
+<br>
+👩‍🏫 Teaching: Web Development & C++  
+<br>
+🎯 Passionate about AI-powered apps, full-stack engineering, and clean UI/UX  
+</p>
 
 ---
 
-## 🚀 Projects
-- **[Resume Builder with AI](https://github.com/aykaimran/ResumeBuilder.git)** — AI-assisted full-stack resume builder (React, Node.js, MongoDB, Flask + Ollama).  
-- **[Tenant-Landlord Management System](https://github.com/aykaimran/Tenant-Landlord-Management-System.git)** — Property & rent management system (React + Spring Boot).  
-- **[Restaurant Management System](https://github.com/aykaimran/Restaurant-management-system.git)** — Ordering & reservations app (React + Node.js + SQL).  
-- **[Energy Consumption Planner](https://github.com/aykaimran/Electricity-Usage-Scheduler.git)** — Desktop electricity usage optimizer (C++ + SQL + .NET).  
+## 🌟 About Me
+
+I'm Ayka, a builder, problem-solver, and someone who believes any bug can be fixed with  
+**Google, caffeine, and a little emotional damage.**  
+
+I love creating full-stack applications, integrating AI into everyday workflows,  
+and teaching students how to write code that actually works on the first try (sometimes).  
+
+📫 **Contact:** aykaimran28@gmail.com  
+🌍 **LinkedIn:** [linkedin.com/in/ayka-imran](https://www.linkedin.com/in/ayka-imran)  
+🧑‍💻 **GitHub:** [github.com/aykaimran](https://github.com/aykaimran)  
 
 ---
 
-On a mission to build scalable software, integrate AI into real-world apps, and teach… unless it’s exam season, then I’m just surviving. 🙃  
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,spring,mongodb,mysql,html,css,git,linux,flask" />
+</p>
+
+---
+
+## 🧩 Featured Projects  
+
+### 🔹 **AI Resume Builder**  
+AI-powered full-stack resume builder using React, Node.js, MongoDB, Flask + Ollama.  
+🔗 Repo: [ResumeBuilder](https://github.com/aykaimran/ResumeBuilder.git)
+
+### 🔹 **Tenant–Landlord Management System**  
+Property, rent, and tenant management portal (React + Spring Boot).  
+🔗 Repo: [Tenant-Landlord System](https://github.com/aykaimran/Tenant-Landlord-Management-System.git)
+
+### 🔹 **Restaurant Management System**  
+Ordering, reservation, and kitchen workflow app (React + Node.js + SQL).  
+🔗 Repo: [Restaurant System](https://github.com/aykaimran/Restaurant-management-system.git)
+
+### 🔹 **Energy Consumption Planner**  
+Desktop electricity usage optimizer (C++ + SQL + .NET).  
+🔗 Repo: [Electricity Usage Scheduler](https://github.com/aykaimran/Electricity-Usage-Scheduler.git)
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aykaimran&show_icons=true&theme=rose_pine" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykaimran&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+## 🌱 Currently  
+- Building scalable full-stack applications  
+- Exploring applied AI & conversational systems  
+- Teaching programming fundamentals  
+- Surviving university… barely 😭  
+
+---
+
+<p align="center">
+✨ *Thanks for stopping by — feel free to explore my repos or reach out!* ✨  
+</p>
