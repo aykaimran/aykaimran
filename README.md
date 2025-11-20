@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">  
-💻 Software Engineering Student @ FAST-NUCES (5th Semester, GPA 3.67)  
+💻 Software Engineering Student @ FAST-NUCES (5th Semester) 
 <br>
 👩‍🏫 Teaching: Web Development & C++  
 <br>
@@ -73,5 +73,5 @@ Desktop electricity usage optimizer (C++ + SQL + .NET).
 ---
 
 <p align="center">
-✨ *Thanks for stopping by — feel free to explore my repos or reach out!* ✨  
+✨ *Thanks for stopping by, feel free to explore my repos or reach out!* ✨  
 </p>
