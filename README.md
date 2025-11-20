@@ -1,7 +1,7 @@
 # 🌸 Ayka Imran - Software Engineer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer+%7C+AI+Developer;Full+Stack+Developer;Educator+%7C+Tech+Mentor;Always+Building+Cool+Things...&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer+%7C+Web+Developer;Full+Stack+Developer;Educator+%7C+Tech+Mentor;Always+Building+Cool+Things...&center=true&width=500&height=45" />
 </p>
 
 <p align="center">  
