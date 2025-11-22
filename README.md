@@ -73,5 +73,5 @@ Desktop electricity usage optimizer (C++ + SQL + .NET).
 ---
 
 <p align="center">
-✨ *Thanks for stopping by, feel free to explore my repos or reach out!* ✨  
+✨ Thanks for stopping by, feel free to explore my repos or reach out! ✨  
 </p>
