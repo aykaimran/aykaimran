@@ -55,14 +55,13 @@ Desktop electricity usage optimizer (C++ + SQL + .NET).
 
 ---
 
-## 📊 GitHub Insights  
+ <!--## 📊 GitHub Insights  -->
 
-<p align="center">
+ <!--<p align="center">-->
   <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=aykaimran&show_icons=true&theme=rose_pine" /> -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykaimran&layout=compact&theme=rose_pine" />
-</p>
+ <!--  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykaimran&layout=compact&theme=rose_pine" />-->
+ <!--</p>-->
 
----
 
 ## 🌱 Currently  
 - Building scalable full-stack applications  
