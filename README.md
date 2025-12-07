@@ -43,15 +43,15 @@ AI-powered full-stack resume builder using React, Node.js, MongoDB, Flask + Olla
 
 ### 🔹 **Rentinel**  
 Property, rent, and tenant management portal (React + Spring Boot).  
-🔗 Repo: [Tenant-Landlord System](https://github.com/aykaimran/Rentinel.git)
+🔗 Repo: [Rentinel](https://github.com/aykaimran/Rentinel.git)
 
 ### 🔹 **AVWM**  
 Ordering, reservation, and kitchen workflow app (React + Node.js + SQL).  
-🔗 Repo: [Restaurant System](https://github.com/aykaimran/AVWM.git)
+🔗 Repo: [AVWM](https://github.com/aykaimran/AVWM.git)
 
 ### 🔹 **Energy Consumption Planner**  
 Desktop electricity usage optimizer (C++ + SQL + .NET).  
-🔗 Repo: [Electricity Usage Scheduler](https://github.com/aykaimran/PeakSaver.git)
+🔗 Repo: [PeakSaver](https://github.com/aykaimran/PeakSaver.git)
 
 ---
 
