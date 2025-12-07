@@ -41,17 +41,17 @@ and teaching students how to write code that actually works on the first try (so
 AI-powered full-stack resume builder using React, Node.js, MongoDB, Flask + Ollama.  
 🔗 Repo: [ResumeBuilder](https://github.com/aykaimran/ResumeBuilder.git)
 
-### 🔹 **Tenant–Landlord Management System**  
+### 🔹 **Rentinel**  
 Property, rent, and tenant management portal (React + Spring Boot).  
-🔗 Repo: [Tenant-Landlord System](https://github.com/aykaimran/Tenant-Landlord-Management-System.git)
+🔗 Repo: [Tenant-Landlord System](https://github.com/aykaimran/Rentinel.git)
 
-### 🔹 **Restaurant Management System**  
+### 🔹 **AVWM**  
 Ordering, reservation, and kitchen workflow app (React + Node.js + SQL).  
-🔗 Repo: [Restaurant System](https://github.com/aykaimran/Restaurant-management-system.git)
+🔗 Repo: [Restaurant System](https://github.com/aykaimran/AVWM.git)
 
 ### 🔹 **Energy Consumption Planner**  
 Desktop electricity usage optimizer (C++ + SQL + .NET).  
-🔗 Repo: [Electricity Usage Scheduler](https://github.com/aykaimran/Electricity-Usage-Scheduler.git)
+🔗 Repo: [Electricity Usage Scheduler](https://github.com/aykaimran/PeakSaver.git)
 
 ---
 
