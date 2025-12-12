@@ -11,6 +11,9 @@
 <br>
 🎯 Passionate about AI-powered apps, full-stack engineering, and clean UI/UX  
 </p>
+</br>
+My portfolio website is now live! 🚀  
+🌐 Check it out here: https://aykaimran.github.io/portfolio
 
 ---
 
