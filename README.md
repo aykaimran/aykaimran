@@ -36,28 +36,14 @@ I'm **Ayka**, a builder, problem-solver, and believer that any bug can be fixed 
   <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,spring,mongodb,mysql,html,css,git,linux,flask" />
 </p>
 
----
+## 📊 GitHub Analytics
 
-## 🧩 Featured Projects  
-
-### 🔹 **AI Resume Builder**  
-AI-powered full-stack resume builder using React, Node.js, MongoDB, Flask + Ollama.  
-🔗 Repo: [ResumeBuilder](https://github.com/aykaimran/ResumeBuilder.git)
-
-### 🔹 **Rentinel**  
-Property, rent, and tenant management portal (React + Spring Boot).  
-🔗 Repo: [Rentinel](https://github.com/aykaimran/Rentinel.git)
-
-### 🔹 **AVWM**  
-Ordering, reservation, and kitchen workflow app (React + Node.js + SQL).  
-🔗 Repo: [AVWM](https://github.com/aykaimran/AVWM.git)
-
-### 🔹 **Energy Consumption Planner**  
-Desktop electricity usage optimizer (C++ + SQL + .NET).  
-🔗 Repo: [PeakSaver](https://github.com/aykaimran/PeakSaver.git)
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aykaimran&show_icons=true&theme=dark" alt="GitHub Stats" style="display: inline-block; margin: 0 5px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykaimran&layout=compact&theme=dark" alt="Top Languages" style="display: inline-block; margin: 0 5px;"/>
+</div>
 
 ---
-
 
 ## 🌱 Currently  
 - Building scalable full-stack applications  
