@@ -36,13 +36,6 @@ I'm **Ayka**, a builder, problem-solver, and believer that any bug can be fixed 
   <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,spring,mongodb,mysql,html,css,git,linux,flask" />
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aykaimran&show_icons=true&theme=dark" alt="GitHub Stats" style="display: inline-block; margin: 0 5px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykaimran&layout=compact&theme=dark" alt="Top Languages" style="display: inline-block; margin: 0 5px;"/>
-</div>
-
 ---
 
 ## 🌱 Currently  
