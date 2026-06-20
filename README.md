@@ -16,7 +16,7 @@
 </p>
 </br>
 <p align="center">
-  <a href="https://aykaimran.github.io/portfolio">
+  <a href="https://aykaimran.github.io/Comic_Themed_Portfolio/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Now!-70a1ff?style=for-the-badge&logo=firefox" />
   </a>
 </p>
