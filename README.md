@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">  
-💻 Software Engineering Student @ FAST-NUCES (5th Semester) 
+💻 Software Engineering Student @ FAST-NUCES (7th Semester) 
 <br>
 👩‍🏫 Teaching: Web Development & C++  
 <br>
@@ -26,7 +26,7 @@
 ### 🌟 About Me
 I'm **Ayka**, a builder, problem-solver, and believer that any bug can be fixed with **Google, caffeine, and a little emotional damage.** - 🔭 I’m currently working on **AI-powered full-stack apps**
 - 👩‍🏫 I teach **Web Development & C++** (making code make sense)
-- 🎓 Studying **Software Engineering** at FAST-NUCES (5th Sem)
+- 🎓 Studying **Software Engineering** at FAST-NUCES (7th Sem)
 - 💬 Ask me about **React, Node.js, or why my code worked yesterday but not today.**
 
 ---
